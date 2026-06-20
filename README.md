@@ -1,6 +1,5 @@
-## Hi there 👋
 
-# Hey, I'm Promise Odelola! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hey, I'm Promise Odelola! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <h2 align="center">About Me</h2>
 
